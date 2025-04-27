@@ -1,3 +1,3 @@
 # Quoble
 
-Here are Android Mobile App for Quoble Social Network
+Android Mobile App for Quoble Social Network
